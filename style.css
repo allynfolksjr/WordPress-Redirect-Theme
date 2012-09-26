@@ -1,0 +1,20 @@
+/*
+Theme Name: Redirect Theme 
+Theme URI: http://staff.washington.edu/nikky
+Description: Redirect Theme. 
+Author: Nikky Southerland
+Author URI: http://staff.washington.edu/nikky
+Version: 1.0
+
+License: GPLv3
+License URI: http://www.gnu.org/licenses/gpl.html 
+
+This theme allows you to redirect your site elsewhere. Simple. 
+ */
+img.aligncenter {
+  margin-left:auto;
+  margin-right:auto;
+  display: block;
+  clear: both;
+                              }
+
